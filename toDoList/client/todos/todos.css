@@ -1,0 +1,12 @@
+.todotext{
+	margin-left:10px;
+	margin-top:10px;
+}
+.done{
+	text-decoration:line-through;
+}
+.todoitem
+{
+	background-color: #F1F8E0;
+	
+}
